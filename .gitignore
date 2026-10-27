@@ -1,0 +1,14 @@
+# Virtual Environments
+.venv
+venv
+
+# Environments
+.env
+
+
+# Pyhton Cache
+/__pycache__
+
+
+# Notes
+FastAPI_notes.txt
